@@ -1,0 +1,38 @@
+.navBar {
+  height: 10vh;
+  background-color: rgba(100, 100, 100);
+}
+
+.navItemsList {
+  display: flex;
+  justify-content: space-between;
+  width: 35%;
+  list-style: none;
+  font-size: 2rem;
+  margin: 0;
+  padding: 0 1rem;
+  line-height: 2rem;
+  height: 100%;
+}
+
+.navItem {
+  display: inline-block;
+  text-transform: capitalize;
+  line-height: 2rem;
+  vertical-align: center;
+  height: 100%;
+  padding: 10px;
+}
+
+.navItem a {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  height: 100%;
+  line-height: 2rem;
+  vertical-align: center;
+}
+
+.active {
+  color:orange;
+}
