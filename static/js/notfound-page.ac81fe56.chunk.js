@@ -1,0 +1,2 @@
+(window["webpackJsonpgoit-react-hw-03-02"]=window["webpackJsonpgoit-react-hw-03-02"]||[]).push([[3],{45:function(n,e,t){"use strict";t.r(e),t.d(e,"default",function(){return c});var r=t(0),a=t.n(r);function c(){return a.a.createElement("div",null,a.a.createElement("h2",null,"NOT FOUND"))}}}]);
+//# sourceMappingURL=notfound-page.ac81fe56.chunk.js.map

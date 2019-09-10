@@ -1,0 +1,2 @@
+(window["webpackJsonpgoit-react-hw-03-02"]=window["webpackJsonpgoit-react-hw-03-02"]||[]).push([[1],{37:function(e,o,t){e.exports={homePage:"HomePage_homePage__3RJON",homeTitle:"HomePage_homeTitle__2Xrlo"}},41:function(e,o,t){"use strict";t.r(o),t.d(o,"default",function(){return r});var a=t(0),n=t.n(a),c=t(37),i=t.n(c);function r(){return n.a.createElement("div",{className:i.a.homePage},n.a.createElement("h2",{className:i.a.homeTitle},"Wellcome to Paws online store"))}}}]);
+//# sourceMappingURL=home-page.9a3ad495.chunk.js.map
