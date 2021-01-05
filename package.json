@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://v-potap.github.io/goit-react-hw-03-image-finder",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "gh-pages": "^2.1.1",
     "query-string": "^6.8.3",
     "react": "^16.9.0",
